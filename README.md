@@ -3,17 +3,16 @@
 A passionate developer creating cool stuff with code. Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 🔭 I’m currently working on projects like Spotify clones, chatbots, and task managers.
-- 🌱 I’m currently learning full-stack development and AI integrations.
+- 🔭 I have worked on projects like Hospital Management System, Spotify clones, chatbots,  task managers and text-handler app.
+- 🌱 I’m proficient in full-stack development and currently learning AI integrations.
 - 👯 I’m looking to collaborate on open-source contributions.
-- 💬 Ask me about JavaScript, Python, and web apps.
 - 📫 You can reach me through email:(singhashwini2103@gmail.com) and Linkedin: (https://in.linkedin.com/in/ashwini-singh-2839b4278)
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, PHP
-- **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, VS Code, Docker
+- **Languages**: C++, Java, JavaScript, Python
+- **Frameworks**: React, Node.js, Express js
+- **Tools**: Git, VS Code
 - **Databases**: MongoDB, MySQL
 
 ## 🔥 Popular Repositories
@@ -27,7 +26,6 @@ Here are some of my featured projects:
 | [Task-Focus](https://github.com/singhashwini21/Task-Focus) | A productivity task manager application. | JavaScript | ![Stars](https://img.shields.io/github/stars/singhashwini21/Task-Focus?style=social) |
 | [hospitalmanagementsystem](https://github.com/singhashwini21/hospitalmanagementsystem) | Hospital management system (forked). | PHP | ![Stars](https://img.shields.io/github/stars/singhashwini21/hospitalmanagementsystem?style=social) |
 
-> *(Star badges auto-update. Customize descriptions as needed.)*
 
 ## 📊 GitHub Stats
 ![Ashwini Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhashwini21&show_icons=true&theme=radical&hide_border=true)
