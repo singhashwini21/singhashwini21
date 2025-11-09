@@ -7,7 +7,7 @@ A passionate developer creating cool stuff with code. Welcome to my GitHub profi
 - 🌱 I’m currently learning full-stack development and AI integrations.
 - 👯 I’m looking to collaborate on open-source contributions.
 - 💬 Ask me about JavaScript, Python, and web apps.
-- 📫 How to reach me: [Your email or LinkedIn](mailto:your.email@example.com) *(replace with your actual contact)*
+- 📫 You can reach me through email:(singhashwini2103@gmail.com) and Linkedin: (https://in.linkedin.com/in/ashwini-singh-2839b4278)
 - 😄 Pronouns: She/Her
 
 ## 🛠️ Tech Stack
